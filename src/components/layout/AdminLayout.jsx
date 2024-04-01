@@ -67,7 +67,7 @@ import {
     return (
       <Stack width={w} direction={"column"} p={"3rem"} spacing={"3rem"}>
         <Typography variant="h5" textTransform={"uppercase"}>
-          Chattu
+          ChitChat
         </Typography>
   
         <Stack spacing={"1rem"}>

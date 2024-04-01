@@ -89,7 +89,7 @@ import {
                   display: { xs: "none", sm: "block" },
                 }}
               >
-                Chattu
+                ChitChat
               </Typography>
   
               <Box
